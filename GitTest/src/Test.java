@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Ã¹ ¹øÂ° Ä¿¹Ô!");
 		System.out.println("µÎ ¹øÂ° Ä¿¹Ô!!");
 		System.out.println("¹¹Áö!!???");
+		System.out.println("asdasds");
 		
 	}
 
