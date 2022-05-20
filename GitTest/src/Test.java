@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("·ê·ç!!");
 		System.out.println("¶ö¶ó!!");
 		System.out.println("·ê·ç¶ö¶ó!!");
+		System.out.println("±Ý¹æ °¡¿ä~");
 		
 		
 	}
